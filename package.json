@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "tsc index.ts && tsc config.ts && node index.js"
+    "start": "tsc index.ts && node index.js"
   },
   "dependencies": {
     "@types/jimp": "^0.2.28",
